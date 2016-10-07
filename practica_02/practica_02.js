@@ -159,7 +159,6 @@ function punto_10d() {
 
     num_10 = parseInt(num_10);
     num_11 = parseInt(num_11);
-
     var lista = document.getElementById("result_04");
 
     if (num_11 != 0) {
