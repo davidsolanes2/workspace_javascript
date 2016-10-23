@@ -2,7 +2,7 @@
   <library name="practica_01" type="javaScript">
     <CLASSES>
       <root url="file://$PROJECT_DIR$/ejemplo_01/practica_01.js" />
-      <root url="file://$PROJECT_DIR$/practica_02/practica_02.js" />
+      <root url="file://$PROJECT_DIR$/practica_01/practica_01.js" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

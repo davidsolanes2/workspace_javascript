@@ -1,10 +1,10 @@
 /*REQUIRED*/
 
-#divMobil
+#movContinu
 {
     position: absolute;
-    width: 200%;
-    height: 80%;
+    width: 115px;
+    height: 30px;
     background-color: orange;
     top: auto;
 }
